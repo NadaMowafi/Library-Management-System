@@ -1,0 +1,30 @@
+B001|The Great Gatsby|F. Scott Fitzgerald|Fiction|Available
+B002|1984|George Orwell|Dystopian|Checked Out
+B003|To Kill a Mockingbird|Harper Lee|Fiction|Checked Out
+B004|The Catcher in the Rye|J.D. Salinger|Fiction|Available
+B005|Pride and Prejudice|Jane Austen|Romance|Checked Out
+B006|Moby-Dick|Herman Melville|Adventure|Available
+B007|War and Peace|Leo Tolstoy|Historical|Available
+B008|The Odyssey|Homer|Epic|Available
+B009|Jane Eyre|Charlotte Brontë|Fiction|Checked Out
+B010|Wuthering Heights|Emily Brontë|Romance|Available
+B011|Brave New World|Aldous Huxley|Dystopian|Available
+B012|The Hobbit|J.R.R. Tolkien|Fantasy|Checked Out
+B013|Lord of the Flies|William Golding|Fiction|Available
+B014|The Chronicles of Narnia|C.S. Lewis|Fantasy|Available
+B015|The Da Vinci Code|Dan Brown|Thriller|Checked Out
+B016|A Tale of Two Cities|Charles Dickens|Historical|Available
+B017|The Shining|Stephen King|Horror|Checked Out
+B018|Fahrenheit 451|Ray Bradbury|Dystopian|Checked Out
+B019|Dune|Frank Herbert|Science Fiction|Available
+B020|The Hitchhiker's Guide to the Galaxy|Douglas Adams|Science Fiction|Available
+B021|Animal Farm|George Orwell|Satire|Available
+B022|Dracula|Bram Stoker|Horror|Available
+B023|The Lord of the Rings|J.R.R. Tolkien|Fantasy|Checked Out
+B024|The Picture of Dorian Gray|Oscar Wilde|Gothic Fiction|Available
+B025|Crime and Punishment|Fyodor Dostoevsky|Psychological Fiction|Available
+B026|The Brothers Karamazov|Fyodor Dostoevsky|Philosophical Fiction|Checked Out
+B027|Catch-22|Joseph Heller|Satire|Available
+B028|Slaughterhouse-Five|Kurt Vonnegut|Science Fiction|Available
+B029|One Hundred Years of Solitude|Gabriel García Márquez|Magic Realism|Available
+B030|The Count of Monte Cristo|Alexandre Dumas|Adventure|Checked Out
