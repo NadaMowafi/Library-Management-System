@@ -14,6 +14,7 @@ def add_book(book_id, title, author, genre):
             'due_date': None
         }
         print(f"Book '{title}' added successfully.")
+        
 
 def update_book(book_id, title=None, author=None, genre=None):
     if book_id in load_data.books:
